@@ -163,7 +163,7 @@ textarea:-ms-input-placeholder {
 	.tm-site-name { margin-top: 35px; }
 	.tm-welcome-title { font-size: 3rem; }
 	.tm-img-container-1 { width: 20%; }
-	.tm-img-container-2 { width: 20%%; }	/* ALTERADO - era 33.3333 */
+	.tm-img-container-2 { width: 20%; }	/* ALTERADO - era 33.3333 */
 	.tm-img-container-3 { width: 20%; }		/* ALTERADO - era 25 */
 }
 
