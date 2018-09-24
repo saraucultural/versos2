@@ -147,7 +147,7 @@ textarea:-ms-input-placeholder {
 .tm-copyright-p { margin-bottom: 0; }
 
 /*ACRESCENTADO*/
-.grid figure figcaption {
+.grid figcaption {
     padding: .55em;						/*distância da legenda até a foto*/
     color: white;                    /*cor da legenda das fotos */
     font-size: .65em;                /*altera o tamanho da letra da legenda*/
